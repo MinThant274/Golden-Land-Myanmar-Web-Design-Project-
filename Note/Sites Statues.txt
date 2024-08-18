@@ -1,0 +1,22 @@
+index.html (#slideshow needed)
+index2.html (#slideshow needed)
+index3.html (#slideshow needed)
+style.css (Linked with html1,2,3)
+
+races.html
+reaces2.html
+
+place.html
+place.html (#create)
+
+food.html
+food2.html (#create)
+
+gallery.html (#Featured Wallpaper/slideshow or )
+gallery2.html (#create)
+
+blog.html (#Edit)
+
+about.html (#create)
+
+(#all website need to make locations changes)
